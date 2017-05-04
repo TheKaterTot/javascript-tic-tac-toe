@@ -1,0 +1,13 @@
+#board td {
+  height: 150px;
+  width: 150px;
+  border-style: solid;
+  border-color: purple;
+  border-width: 5px;
+}
+
+.played {
+  font-size: 122px;
+  color: blue;
+  text-align: center;
+}
